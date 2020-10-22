@@ -2321,6 +2321,7 @@ input, select, textarea {
 			display: flex;
 			flex-wrap: wrap;
 			padding: 1em 0;
+			justify-content: center;
 		}
 
 			/* ul.icons.major li {
@@ -2561,7 +2562,7 @@ input, select, textarea {
 	}
 
 		.features li {
-			padding: 4em 4em 2em 6em ;
+			padding: 4em 4em 4em 6em ;
 			display: block;
 			position: relative;
 			text-align: left;

@@ -41,3 +41,15 @@
 .features a {
     cursor: pointer;
 }
+
+#two .major {
+  margin: 0 auto;
+  width: fit-content;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+}
+
+#proj {
+    border-bottom: solid 2px rgba(41, 47, 54, 1);
+}
