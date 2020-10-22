@@ -11,3 +11,33 @@
 .banner-buttons a {
     margin: 10px;
 }
+
+.icons.major img {
+    margin: 10px 20px;
+}
+
+.skill-label {
+    width: 50px;
+}
+
+.skill-label-text {
+    width: 70px;
+}
+
+#mdb {
+    width: 80px;
+}
+
+.features p {
+    font-family: "Open Sans", Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.features li:hover {
+    transition: background-color 0.2s ease-in-out;
+    background-color:  rgba(0, 0, 0, 0.5);
+}
+
+.features a {
+    cursor: pointer;
+}

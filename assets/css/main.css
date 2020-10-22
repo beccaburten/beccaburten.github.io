@@ -2318,10 +2318,12 @@ input, select, textarea {
 			}
 
 		ul.icons.major {
+			display: flex;
+			flex-wrap: wrap;
 			padding: 1em 0;
 		}
 
-			ul.icons.major li {
+			/* ul.icons.major li {
 				padding-right: 3.5em;
 			}
 
@@ -2331,7 +2333,7 @@ input, select, textarea {
 						padding: 0 1em !important;
 					}
 
-				}
+				} */
 
 /* Table */
 
@@ -2567,43 +2569,39 @@ input, select, textarea {
 		}
 
 			.features li:nth-child(1) {
+				    transition: background-color 0.2s ease-in-out;
+
 				background-color: rgba(0, 0, 0, 0.035);
 			}
 
 			.features li:nth-child(2) {
+				    transition: background-color 0.2s ease-in-out;
+
 				background-color: rgba(0, 0, 0, 0.07);
 			}
 
 			.features li:nth-child(3) {
+				    transition: background-color 0.2s ease-in-out;
+
 				background-color: rgba(0, 0, 0, 0.105);
 			}
 
 			.features li:nth-child(4) {
+				    transition: background-color 0.2s ease-in-out;
+
 				background-color: rgba(0, 0, 0, 0.14);
 			}
 
 			.features li:nth-child(5) {
+				    transition: background-color 0.2s ease-in-out;
+
 				background-color: rgba(0, 0, 0, 0.175);
 			}
 
 			.features li:nth-child(6) {
+				    transition: background-color 0.2s ease-in-out;
+
 				background-color: rgba(0, 0, 0, 0.21);
-			}
-
-			.features li:nth-child(7) {
-				background-color: rgba(0, 0, 0, 0.245);
-			}
-
-			.features li:nth-child(8) {
-				background-color: rgba(0, 0, 0, 0.28);
-			}
-
-			.features li:nth-child(9) {
-				background-color: rgba(0, 0, 0, 0.315);
-			}
-
-			.features li:nth-child(10) {
-				background-color: rgba(0, 0, 0, 0.35);
 			}
 
 			.features li:before {
