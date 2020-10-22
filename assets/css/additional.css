@@ -1,0 +1,13 @@
+.headshot {
+    width: 15vw;
+    border-radius: 50%;
+}
+
+.banner-buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.banner-buttons a {
+    margin: 10px;
+}
