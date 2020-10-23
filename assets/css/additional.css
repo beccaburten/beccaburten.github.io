@@ -1,6 +1,14 @@
 .headshot {
     width: 15vw;
     border-radius: 50%;
+    margin: 5px;
+}
+
+.inner {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .banner-buttons {
