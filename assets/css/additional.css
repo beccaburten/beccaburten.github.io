@@ -14,18 +14,20 @@
 
 .icons.major img {
     margin: 10px 20px;
+    /* object-fit: cover; */
+    /* max-height: 100px; */
 }
 
 .skill-label {
-    width: 50px;
+    max-width: 50px;
 }
 
 .skill-label-text {
-    width: 70px;
+    max-width: 70px;
 }
 
 #mdb {
-    width: 80px;
+    max-width: 80px;
 }
 
 .features p {
