@@ -53,3 +53,12 @@
 #proj {
     border-bottom: solid 2px rgba(41, 47, 54, 1);
 }
+
+.tech {
+    color: white;
+    opacity: 0.5;
+}
+
+#big-button {
+    width: 300px;
+}
