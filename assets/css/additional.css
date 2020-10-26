@@ -20,22 +20,20 @@
     margin: 10px;
 }
 
-.icons.major img {
+/* .icons.major img {
     margin: 10px 20px;
-    /* object-fit: cover; */
-    /* max-height: 100px; */
-}
+} */
 
 .skill-label {
-    max-width: 50px;
+    width: 50px;
 }
 
 .skill-label-text {
-    max-width: 70px;
+    width: 70px;
 }
 
 #mdb {
-    max-width: 80px;
+    width: 80px;
 }
 
 .features p {
