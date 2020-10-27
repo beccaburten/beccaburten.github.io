@@ -32,6 +32,14 @@
     width: 70px;
 }
 
+.icons.major img:hover {
+    cursor: help;
+}
+
+#tech-skills {
+    cursor: wait;
+}
+
 #mdb {
     width: 80px;
 }
