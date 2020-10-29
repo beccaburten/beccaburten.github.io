@@ -82,3 +82,16 @@
 .banner-buttons {
     margin-bottom: 50px;
 }
+
+#about {
+    display: flex;
+    flex-direction: row;
+}
+
+#about p {
+    margin: auto;
+}
+
+#about-2 {
+    margin-top: 2%;
+}
