@@ -68,13 +68,15 @@
 }
 
 #projects .major {
-    justify-content: center;
+  justify-content: center;
   display: flex;
+  margin-bottom: 44px;
 }
 
 #proj {
     border-bottom: solid 2px rgba(41, 47, 54, 1);
     padding-top: 44px;
+    margin-bottom: 0;
 }
 
 .tech {
