@@ -95,6 +95,7 @@
 #about {
     display: flex;
     flex-direction: row;
+    align-items: flex-end;
 }
 
 #about p {
@@ -103,4 +104,8 @@
 
 #about-2 {
     margin-top: 2%;
+}
+
+#how {
+    padding-right: 15px;
 }
