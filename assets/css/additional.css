@@ -67,8 +67,14 @@
   margin-bottom: 40px;
 }
 
+#projects .major {
+    justify-content: center;
+  display: flex;
+}
+
 #proj {
     border-bottom: solid 2px rgba(41, 47, 54, 1);
+    padding-top: 44px;
 }
 
 .tech {
