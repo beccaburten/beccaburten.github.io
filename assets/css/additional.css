@@ -92,20 +92,6 @@
     margin-bottom: 50px;
 }
 
-#about {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
-}
-
-#about p {
-    margin: auto;
-}
-
 #about-2 {
     margin-top: 2%;
-}
-
-#how {
-    padding-right: 15px;
 }
