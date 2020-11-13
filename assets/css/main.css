@@ -2211,6 +2211,7 @@ input, select, textarea {
 			-ms-flex-direction: column;
 			flex-direction: column;
 			margin-left: 0;
+			padding-top: 5%;
 		}
 
 			ul.actions.stacked li {
@@ -3755,6 +3756,7 @@ input, select, textarea {
 	}
 
 /* CTA */
+/* CTA */
 
 	#cta .inner {
 		display: -moz-flex;
@@ -3813,6 +3815,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 /* Main */
 
